@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My first post",
+      "datetime": "July 1, 2020, 11:37:17 AM",
+      "body": "Code for 4 hours"
+    },
+    {
+      "id": "2",
+      "title": "Introduction to React",
+      "datetime": "August 15, 2020, 3:45:22 PM",
+      "body": "Exploring Python programming tips and tricks"
+    },
+    {
+      "id": "3",
+      "title": "Web Development Journey",
+      "datetime": "January 22,2024 12:01:29 PM",
+      "body": "Documenting my journey in web development career"
+    },
+    {
+      "id": "31",
+      "title": "Hello there!",
+      "datetime": "January 23,2024 12:56:59 PM",
+      "body": "Learn Basics of any technology..."
+    }
+  ]
+}
